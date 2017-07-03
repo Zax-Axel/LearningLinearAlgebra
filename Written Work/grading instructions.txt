@@ -1,0 +1,29 @@
+
+***Grading Work***
+Every user is expected to grade their self-study partners assignments as well. Self study partner assignments are listed below. To grade, simply download your partners file and compare it to the solutions posted in the "Solutions" folder. Create a text file that summarizes the result. For each solution that is not 100% correct, note which bucket in the grading rubric it falls into and a short note why. For solutions that are given full credit, no explanation is necessary. Post this text file into your parter's folder and update their "grades.txt" file.
+
+
+***Self study partners***
+
+EikaNN and Calligraphic
+NewPos and half_coda
+andrewr_ and shadowghostspirit
+
+
+***Grading Rubric***
+Answers will fall into 1 of 5 categories. Please use the following rubric to assign points/grades:
+
+1. 100% correct
+
+2. wrong, but wrong due to a silly mistake/calculation error (i.e. flipping signs, mis-writing a formula). Approach would yield a correct result if evaluated correctly. (90% of points)
+
+3. wrong, but most of the pieces are there. student has an idea of how to start the problem and takes most correct steps but can not identify the final logical steps necessary to yield a correct result. OR student falls into category 2 with several or important 
+calculation errors. (60% of points)
+
+4. wrong, but some pieces are there. student is able to start an approach but gets stuck or makes several logically not valid steps thereafter. (30% of points)
+
+5. wrong. no relevant logical steps taken. (0%)
+
+
+***Grading disputes***
+Please direct any grading disputes directly to me via reddit PM
